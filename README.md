@@ -1,16 +1,25 @@
-## Hi there, I am Kaveesha Nirmal 😎 
+Hi there, I’m Kaveesha Nirmal 😎
 
-<!--
-**Kaveesha529/Kaveesha529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software-focused undergraduate with hands-on experience in modern web and backend technologies
+💻 Passionate about building real-world, API-driven applications
+🧠 Strong in problem-solving, critical thinking, and team collaboration
+🚀 Always learning and exploring new technologies to grow as a developer
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: Java, JavaScript, C
+Technologies: Modern web & backend frameworks
+Databases: Relational & NoSQL
+Development: RESTful APIs, clean architecture
+Tools: Git, GitHub, Figma
+
+🌱 Currently Focused On
+
+Deepening knowledge in modern frontend ecosystems
+Improving system design and backend fundamentals
+Writing clean, scalable, and maintainable code
+
+🤝 Let’s Connect
+
+💬 Open to collaboration on learning-driven and real-world projects
+📫 Reach me through GitHub | Linkedin - https://www.linkedin.com/in/kaveesha-nirmal-34527b268/
