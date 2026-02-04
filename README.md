@@ -1,39 +1,25 @@
-Hi there, I’m Kaveesha Nirmal 😎
+Hi there, I’m Kaveesha Nirmal 😎<br>
 
-🎓 Software-focused undergraduate with hands-on experience in modern web and backend technologies
+🎓 Software-focused undergraduate with hands-on experience in modern web and backend technologies<br>
+💻 Passionate about building real-world, API-driven applications<br>
+🧠 Strong in problem-solving, critical thinking, and team collaboration<br>
+🚀 Always learning and exploring new technologies to grow as a developer<br>
+🛠️ Tech Stack<br>
 
-💻 Passionate about building real-world, API-driven applications
+Languages: Java, JavaScript, C<br>
 
-🧠 Strong in problem-solving, critical thinking, and team collaboration
+Technologies: Modern web & backend frameworks<br>
+Databases: Relational & NoSQL<br>
+Development: RESTful APIs, clean architecture<br>
+Tools: Git, GitHub, Figma<br>
 
-🚀 Always learning and exploring new technologies to grow as a developer
+🌱 Currently Focused On<br>
 
-🛠️ Tech Stack
+Deepening knowledge in modern frontend ecosystems<br>
+Improving system design and backend fundamentals<br>
+Writing clean, scalable, and maintainable code<br>
 
-Languages: Java, JavaScript, C
+🤝 Let’s Connect<br>
 
-Technologies: Modern web & backend frameworks
-
-Databases: Relational & NoSQL
-
-Development: RESTful APIs, clean architecture
-
-Tools: Git, GitHub, Figma
-
-
-🌱 Currently Focused On
-
-
-Deepening knowledge in modern frontend ecosystems
-
-Improving system design and backend fundamentals
-
-Writing clean, scalable, and maintainable code
-
-
-🤝 Let’s Connect
-
-
-💬 Open to collaboration on learning-driven and real-world projects
-
-📫 Reach me through GitHub | Linkedin - https://www.linkedin.com/in/kaveesha-nirmal-34527b268/
+💬 Open to collaboration on learning-driven and real-world projects<br>
+📫 Reach me through GitHub | Linkedin - https://www.linkedin.com/in/kaveesha-nirmal-34527b268/<br>
