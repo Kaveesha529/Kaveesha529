@@ -1,13 +1,17 @@
 Hi there, I’m Kaveesha Nirmal 😎
 
 🎓 Software-focused undergraduate with hands-on experience in modern web and backend technologies
+
 💻 Passionate about building real-world, API-driven applications
+
 🧠 Strong in problem-solving, critical thinking, and team collaboration
+
 🚀 Always learning and exploring new technologies to grow as a developer
 
 🛠️ Tech Stack
 
 Languages: Java, JavaScript, C
+
 Technologies: Modern web & backend frameworks
 
 Databases: Relational & NoSQL
