@@ -8,7 +8,6 @@ Hi there, I’m Kaveesha Nirmal 😎
 🛠️ Tech Stack
 
 Languages: Java, JavaScript, C
-
 Technologies: Modern web & backend frameworks
 
 Databases: Relational & NoSQL
@@ -17,7 +16,9 @@ Development: RESTful APIs, clean architecture
 
 Tools: Git, GitHub, Figma
 
+
 🌱 Currently Focused On
+
 
 Deepening knowledge in modern frontend ecosystems
 
@@ -25,7 +26,9 @@ Improving system design and backend fundamentals
 
 Writing clean, scalable, and maintainable code
 
+
 🤝 Let’s Connect
+
 
 💬 Open to collaboration on learning-driven and real-world projects
 
