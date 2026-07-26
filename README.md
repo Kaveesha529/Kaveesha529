@@ -6,7 +6,7 @@ Hi there, I’m Kaveesha Nirmal 😎<br>
 🚀 Always learning and exploring new technologies to grow as a developer<br>
 🛠️ Tech Stack<br>
 
-Languages: Java, JavaScript, C<br>
+Languages: Java, JavaScript, C, Python<br>
 
 Technologies: Modern web & backend frameworks<br>
 Databases: Relational & NoSQL<br>
